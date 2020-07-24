@@ -20,7 +20,9 @@ and mainly focus on Faster R-CNN to detect objects.
 
 ## How to use
 
-**Datasets** Google’s Open Images Dataset V4
+**Datasets** 
+
+Google’s Open Images Dataset V4
 
 train-images-boxable.csv file contains the image name and image url
 
