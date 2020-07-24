@@ -23,7 +23,9 @@ and mainly focus on Faster R-CNN to detect objects.
 **Datasets** Google’s Open Images Dataset V4
 
 train-images-boxable.csv file contains the image name and image url
+
 Oidv6-train-annotations-bbox.csv file contains the bounding box info with the image id (name) and the image label name
+
 class-descriptions-boxable.csv file contains the image label name corresponding to its class name
 
 Download link:
